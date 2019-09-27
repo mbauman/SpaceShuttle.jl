@@ -12,7 +12,7 @@ export launch, deploy_canadarm
 
 Tell the _space shuttle_ to take off!
 
-\$\\sum_0^N x_i\$
+Does the following: \$\\sum_0^N x_i\$
 """
 launch() = "3..2...1... launch!"
 
